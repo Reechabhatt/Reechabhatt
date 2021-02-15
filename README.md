@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reechabhatt
 - 👀 I’m interested in developing websites and analyzing data to help make better decisions 
-- 🌱 I’m currently learning SAS programming language and nodeJS
+- 🌱 I’m currently learning SAS programming language
 - 💞️ I’m looking to collaborate on global level
 - 📫 Please reach me via email: reechabhatt@gmail.com or @9053911721
 
